@@ -2,7 +2,7 @@
 package com.task1.basicPrograms;
 import java.util.Scanner;
 
-public class Qn10EquilateralTriangleOrNot {
+public class Qn10EquilateralTriangleCheck {
     static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter first side of triangle:");

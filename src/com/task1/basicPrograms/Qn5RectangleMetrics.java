@@ -5,7 +5,7 @@ perimeterOfRectangle=2*(length+width)
  */
 package com.task1.basicPrograms;
 import java.util.Scanner;
-public class Qn5AreaAndPerimeterOfRectangle {
+public class Qn5RectangleMetrics {
     static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the length of the rectangle(in cm): ");

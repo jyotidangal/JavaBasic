@@ -2,7 +2,7 @@ package com.task1.basicPrograms;
 
 import java.util.Scanner;
 
-public class Qn6PerimeterOfCircle {
+public class Qn6CirclePerimeter {
 //    static final float PI= 3.14f;
     static void main(String[] args){
         Scanner sc=new Scanner(System.in);
