@@ -1,6 +1,6 @@
-package com.task1.generalPrograms;
+package com.task1.basicPrograms;
 import java.util.Scanner;
-public class qn4EvenOrOddNumber {
+public class Qn4EvenOrOddNumber {
     static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 //        take input a number

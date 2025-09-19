@@ -1,8 +1,8 @@
 //WAP in java to check whether the triangle is equilateral or not
-package com.task1.generalPrograms;
+package com.task1.basicPrograms;
 import java.util.Scanner;
 
-public class qn10TriangleIsEquilateralOrNot {
+public class Qn10EquilateralTriangleOrNot {
     static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter first side of triangle:");

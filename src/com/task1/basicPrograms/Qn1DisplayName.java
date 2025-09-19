@@ -1,7 +1,7 @@
 // WAP to take input from the user and display Hello+ name as output
-package com.task1.generalPrograms;
+package com.task1.basicPrograms;
 import java.util.Scanner;
-public class qn1DisplayName {
+public class Qn1DisplayName {
     static void main(String[] args){
         //create Scanner Object
         Scanner sc=new Scanner(System.in);

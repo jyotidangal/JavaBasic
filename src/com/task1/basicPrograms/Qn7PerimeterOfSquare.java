@@ -1,7 +1,7 @@
-package com.task1.generalPrograms;
+package com.task1.basicPrograms;
 
 import java.util.Scanner;
-public class qn7PerimeterOfSquare {
+public class Qn7PerimeterOfSquare {
     static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the length of the square (cm):");

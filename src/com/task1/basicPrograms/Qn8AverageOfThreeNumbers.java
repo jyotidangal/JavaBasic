@@ -1,6 +1,6 @@
-package com.task1.generalPrograms;
+package com.task1.basicPrograms;
 import java.util.Scanner;
-public class qn8AverageCalculationOfThreeNumbers {
+public class Qn8AverageOfThreeNumbers {
     static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter three numbers:");

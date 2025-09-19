@@ -1,9 +1,9 @@
 //WAP in java to find the largest number from the three numbers taken from the user
 
-package com.task1.generalPrograms;
+package com.task1.basicPrograms;
 //Import the Scanner class
 import java.util.Scanner;
-public class qn3LargestNumberAmongThree {
+public class Qn3LargestNumberAmongThree {
     static void main(String[] args){
 //Create an Object of a class Scanner
          Scanner sc = new Scanner(System.in);

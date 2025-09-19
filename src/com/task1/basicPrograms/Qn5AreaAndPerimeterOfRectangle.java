@@ -3,9 +3,9 @@
 areaOfRectangle=length*width
 perimeterOfRectangle=2*(length+width)
  */
-package com.task1.generalPrograms;
+package com.task1.basicPrograms;
 import java.util.Scanner;
-public class qn5AreaAndPerimeterOfRectangle {
+public class Qn5AreaAndPerimeterOfRectangle {
     static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the length of the rectangle(in cm): ");

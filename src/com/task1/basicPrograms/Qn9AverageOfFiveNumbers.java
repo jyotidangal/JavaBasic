@@ -1,6 +1,6 @@
-package com.task1.generalPrograms;
+package com.task1.basicPrograms;
 import java.util.Scanner;
-public class qn9AverageOfFiveNumbers {
+public class Qn9AverageOfFiveNumbers {
     static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n=5;//total no.of inputs
