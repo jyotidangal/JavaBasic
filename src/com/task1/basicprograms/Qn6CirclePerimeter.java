@@ -1,9 +1,9 @@
-package com.task1.basicPrograms;
+package com.task1.basicprograms;
 
 import java.util.Scanner;
 
 public class Qn6CirclePerimeter {
-//    static final float PI= 3.14f;
+
     static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the radius of the circle (cm):");

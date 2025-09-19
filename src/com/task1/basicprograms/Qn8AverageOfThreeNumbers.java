@@ -1,4 +1,4 @@
-package com.task1.basicPrograms;
+package com.task1.basicprograms;
 import java.util.Scanner;
 public class Qn8AverageOfThreeNumbers {
     static void main(String[] args){

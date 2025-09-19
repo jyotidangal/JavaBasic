@@ -1,7 +1,7 @@
 //WAP in java to print numbers from 1 to 10
-package com.task1.loopsRelated;
+package com.task1.loops;
 import java.util.Scanner;
-public class qn1PrintFrom1To10 {
+public class Qn1PrintNatualNumbers {
     static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         //let's create an array that accepts 100 numbers

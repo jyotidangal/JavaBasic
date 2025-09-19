@@ -3,7 +3,7 @@ WAP in java to take two number input from the user and display
 its Sum, Product, Difference, Quotient and Remainder.Display
 invalid number as a message if any one of number is less than or equal to zero
 */
-package com.task1.basicPrograms;
+package com.task1.basicprograms;
 import java.util.Scanner;
 public class Qn2MathematicalOperations {
     static void main(String[] args) {

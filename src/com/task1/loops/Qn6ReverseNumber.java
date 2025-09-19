@@ -1,6 +1,6 @@
-package com.task1.loopsRelated;
+package com.task1.loops;
 import java.util.Scanner;
-public class qn6ReverseTheDigitsOfNumber {
+public class Qn6ReverseNumber {
     static void main(String[] args){
         Scanner input= new Scanner(System.in);
         System.out.println("Enter a number:");

@@ -1,6 +1,6 @@
-package com.task1.loopsRelated;
+package com.task1.loops;
 import java.util.Scanner;
-public class qn5PowerCalculation {
+public class Qn5PowerCalculation {
      static void main(String[] args){
         Scanner input= new Scanner(System.in);
         System.out.println(" Enter a firstNumber:");

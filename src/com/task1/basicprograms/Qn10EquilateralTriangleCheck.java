@@ -1,5 +1,5 @@
 //WAP in java to check whether the triangle is equilateral or not
-package com.task1.basicPrograms;
+package com.task1.basicprograms;
 import java.util.Scanner;
 
 public class Qn10EquilateralTriangleCheck {

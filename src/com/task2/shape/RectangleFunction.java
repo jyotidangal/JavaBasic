@@ -1,4 +1,4 @@
-package com.day2.Shape;
+package com.task2.shape;
 
 public class RectangleFunction {
     Rectangle rectangle= new Rectangle();

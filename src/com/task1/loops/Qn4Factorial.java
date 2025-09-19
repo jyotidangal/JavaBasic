@@ -1,6 +1,6 @@
-package com.task1.loopsRelated;
+package com.task1.loops;
 import java.util.Scanner;
-public class qn4FactorialUsingWhileLoop {
+public class Qn4Factorial {
      static void main(String[] args) {
          Scanner sc = new Scanner(System.in);
          System.out.println("Enter a number:");

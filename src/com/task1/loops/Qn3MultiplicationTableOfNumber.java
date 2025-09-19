@@ -1,6 +1,6 @@
-package com.task1.loopsRelated;
+package com.task1.loops;
 import java.util.Scanner;
-public class qn3MultiplicationTableOfNumber {
+public class Qn3MultiplicationTableOfNumber {
     static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);

@@ -3,7 +3,7 @@
 areaOfRectangle=length*width
 perimeterOfRectangle=2*(length+width)
  */
-package com.task1.basicPrograms;
+package com.task1.basicprograms;
 import java.util.Scanner;
 public class Qn5RectangleMetrics {
     static void main(String[] args){

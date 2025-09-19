@@ -1,7 +1,7 @@
 //WAP to print the sum of first 10 natural numbers
-package com.task1.loopsRelated;
+package com.task1.loops;
 import java.util.Scanner;
-public class qn2SumOfFirstNaturalNumbers {
+public class Qn2SumOfNaturalNumbers {
     static void main(String[] args){
         Scanner sc=  new Scanner(System.in);
         int n=10;

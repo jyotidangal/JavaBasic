@@ -1,4 +1,4 @@
-package com.day2.Shape;
+package com.task2.shape;
 import java.util.Scanner;
 
 public class ShapeExecutor {
