@@ -1,0 +1,14 @@
+package com.firstassignment.basicprograms;
+
+import java.util.Scanner;
+public class Qn7SquarePerimeter {
+    static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the length of the square (cm):");
+        float length = sc.nextFloat();
+        float perimeterOfSquare=4*length;
+
+        System.out.println("The perimeter of the circle is "+perimeterOfSquare+" cm");
+
+    }
+}
