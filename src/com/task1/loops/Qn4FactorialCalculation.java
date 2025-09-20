@@ -1,6 +1,6 @@
 package com.task1.loops;
 import java.util.Scanner;
-public class Qn4Factorial {
+public class Qn4FactorialCalculation {
      static void main(String[] args) {
          Scanner sc = new Scanner(System.in);
          System.out.println("Enter a number:");
